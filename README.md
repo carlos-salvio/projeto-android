@@ -1,2 +1,2 @@
 # projeto-android
- Projeto Androido criado no capítulo 17 do Curso de HTML e CSS
+ Projeto Android criado no capítulo 17 do Curso de HTML e CSS
